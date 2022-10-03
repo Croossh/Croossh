@@ -6,7 +6,7 @@
 Full-Stack 개발자를 목표로 열심히 배우고 있는 박우찬 입니다.<br>
 <br>
 [<img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=black">](https://croossh103.tistory.com/)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">]()
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
 <br>
 <br>
 
