@@ -1,6 +1,6 @@
 <div align = "center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FAE287&height=200&section=header&text=PARK%20WOO%20CHAN%20&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=66623F)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAE287&height=250&section=header&text=PARK%20WOO%20CHAN%20&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=66620F)
 
 ### 안녕하세요! 😁<br>
 Full-Stack 개발자를 목표로 열심히 배우고 있는 박우찬 입니다.<br>
