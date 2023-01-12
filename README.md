@@ -33,5 +33,5 @@ Full-Stack 개발자를 목표로 열심히 배우고 있는 박우찬 입니다
 <br>
 <br>
 
-[![Croosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Croossh&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- [![Croosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Croossh&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
